@@ -1,0 +1,64 @@
+.header
+{
+	text-align: center;
+	font-size: 5em;
+	background-color: gray;
+	margin-top: -100px;	
+}
+
+.nav
+{
+	text-align: center;
+	word-spacing: 12px;
+	margin-top: -95px;
+	background-color: black;	
+	padding: 50px;
+	border: red 5px solid;
+}
+
+.nav a 
+{
+	color: white;
+}
+
+.feature
+{
+	border: 2px solid black;
+	background-color: gray;
+	margin-top: 10px;
+}
+
+.column-left
+{
+    border: 2px solid black;
+    display: inline-block;
+    float: left;
+    width: 391px;
+    margin: 10px; 
+    background-color: gray;
+}
+
+.column-right
+{
+    border: 2px solid black;
+    display: inline-block;
+    float: left;
+    width: 391px;
+    margin: 10px;  
+    background-color: gray;
+}
+
+.column-center
+{
+    border: 2px solid black;
+    display: inline-block;
+    float: left;
+    width: 391px; 
+    margin: 10px; 
+    background-color: gray;
+}
+
+.footer
+{
+	text-align: center;
+}
